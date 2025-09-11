@@ -15,10 +15,10 @@ I am a **Backend Developer** passionate about building scalable web applications
 
 ### 💼 My Skills
 **Languages & Frameworks:**  
-`PHP` | `Laravel` | `JavaScript` | `HTML` | `CSS` | `MySQL` | `Git`
+`PHP` | `Laravel` | `JavaScript` | `Java` | `C++` | `Python` | `HTML` | `CSS` | `ReactJS` | `NextJS` | `MySQL` | `MongoDB` | `PostgreSQL` | `Git`
 
 **Other Tools & Technologies:**  
-`REST APIs` | `JWT Authentication` | `Postman` | `Docker` | `Machine Learning basics`
+`REST APIs` | `Linux` | `Postman` | `Docker` | `CI/CD` | `Machine Learning`
 
 ---
 
