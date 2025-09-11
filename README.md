@@ -30,7 +30,7 @@ I am a **Backend Developer** passionate about building scalable web applications
 
 ### 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/jaya-dubey-1196b5165/)  
-- 🐦 [Twitter](https://twitter.com/Jaya_0042)  
+- 🐦 [Twitter](https://twitter.com/jaya_6400)  
 - 📸 [Instagram](https://www.instagram.com/jayadubey_22/)
 
 ---
