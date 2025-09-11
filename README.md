@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 Feel free to connect: 
   - :office: [LinkedIn](https://www.linkedin.com/in/jaya-dubey-1196b5165/)
   - :office: [Twitter](https://twitter.com/Jaya_0042)
-  - :office: [Instagram](https://www.instagram.com/jayadubey_21/)
+  - :office: [Instagram](https://www.instagram.com/jayadubey_22/)
