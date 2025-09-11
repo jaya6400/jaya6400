@@ -1,18 +1,39 @@
-### Hi there 👋
+### Hi there 👋, I’m Jaya Dubey
 
-Here are some ideas to get you started:
+I am a **Backend Developer** passionate about building scalable web applications and solving real-world problems. I love learning new technologies every day and sharing knowledge with the community.  
 
-- :zap: I love programing, problem solving, computer science, and learning something new everyday
-- 🔭 I love ceating, designing beautiful websites and also have fun working on ML models
-- 🌱 I’m learning and growing every day
-- 👯 I’m looking to collaborate on wonderful projects that can impact society
-- :earth_africa: I am currently sharing a little bit of my knowledge to the world through open source
-- :bulb:  I share my knowledge here: [Medium articles](https://medium.com/@jayadubey6402)
+---
 
-    [![Jaya's github stats](https://github-readme-stats.vercel.app/api?username=jaya6400&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-    
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaya6400)](https://github.com/anuraghazra/github-readme-stats)
-- 📫 Feel free to connect: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/jaya-dubey-1196b5165/)
-  - :office: [Twitter](https://twitter.com/Jaya_0042)
-  - :office: [Instagram](https://www.instagram.com/jayadubey_22/)
+### 🚀 About Me
+- 💻 I enjoy **programming, problem solving, and learning computer science concepts**.
+- 🔭 I love **creating and designing beautiful websites** and experimenting with **Machine Learning models**.
+- 🌱 Continuously **learning and growing** in backend development, web technologies, and software architecture.
+- 👯 I’m looking to **collaborate on impactful projects** that can make a difference.
+- 🌍 I share knowledge through **open-source contributions** and **Medium articles**: [Medium](https://medium.com/@jayadubey6402)
+
+---
+
+### 💼 My Skills
+**Languages & Frameworks:**  
+`PHP` | `Laravel` | `JavaScript` | `HTML` | `CSS` | `MySQL` | `Git`
+
+**Other Tools & Technologies:**  
+`REST APIs` | `JWT Authentication` | `Postman` | `Docker` | `Machine Learning basics`
+
+---
+
+### 📊 GitHub Stats
+[![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaya6400&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jaya6400)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaya6400&layout=compact)](https://github.com/jaya6400)
+
+---
+
+### 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaya-dubey-1196b5165/)  
+- 🐦 [Twitter](https://twitter.com/Jaya_0042)  
+- 📸 [Instagram](https://www.instagram.com/jayadubey_22/)
+
+---
+
+### ⚡ Fun Fact
+I’m always **exploring new technologies** and **building small projects** to strengthen my skills while sharing my journey with the community.
