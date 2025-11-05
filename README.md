@@ -1,6 +1,6 @@
 ### Hi there 👋, I’m Jaya Dubey
 
-I am a **Backend Developer** passionate about building scalable web applications and solving real-world problems. I love learning new technologies every day and sharing knowledge with the community.  
+I am a **Software Engineer** passionate about building scalable web applications and solving real-world problems. I love learning new technologies every day and sharing knowledge with the community.  
 
 ---
 
