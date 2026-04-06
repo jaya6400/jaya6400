@@ -14,12 +14,12 @@
 ---
 
 ## 🚀 About Me
-- 💻 Passionate about **building scalable web applications**
+- 💻 Inquisitive about **building scalable web applications**
 - 🧠 Strong focus on **Data Structures & System Design**
 - ⚡ Actively building **scalable projects using best practices**
 - 🏆 Regularly participating in **hackathons & coding challenges**
 - 🤖 Exploring and contributing in the **AI/ML domain**
-- 🎨 Love creating **clean & user-friendly UI/UX**
+- 🎨 Like creating **clean & user-friendly UI/UX**
 - 🌱 Continuously learning **backend architecture & modern technologies**
 - 🤝 Open to **collaboration on impactful projects**
 
