@@ -25,14 +25,15 @@ I am a **Software Engineer** passionate about building scalable web applications
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-stats.vercel.app/api?username=jaya6400&show_icons=true&theme=radical)
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=jaya6400&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaya-dubey-1196b5165/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaya6400)  
 - 🐦 [Twitter](https://twitter.com/jaya_6400)  
-- 📸 [Instagram](https://www.instagram.com/jayadubey_22/)
+- 📸 [Medium](https://medium.com/@jayadubey6402)
 
 ---
 
