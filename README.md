@@ -91,4 +91,4 @@
 ---
 
 ## ⚡ Fun Fact
-I love turning **ideas into real-world scalable products** and continuously improving my skills 🚀
+I like turning **ideas into real-world scalable products** and continuously improving my skills 🚀
