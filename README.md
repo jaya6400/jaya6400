@@ -23,8 +23,9 @@ I am a **Software Engineer** passionate about building scalable web applications
 ---
 
 ### 📊 GitHub Stats
-[![Jaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaya6400&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/jaya6400)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaya6400&layout=compact)](https://github.com/jaya6400)
+![GitHub stats](https://github-stats.vercel.app/api?username=jaya6400&show_icons=true&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=jaya6400&theme=radical)
 
 ---
 
