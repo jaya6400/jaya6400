@@ -1,41 +1,70 @@
-### Hi there 👋, I’m Jaya Dubey
+<h1 align="center">Hi 👋, I'm Jaya Dubey</h1>
+<h3 align="center">🚀 Software Engineer | Backend Developer | Problem Solver</h3>
 
-I am a **Software Engineer** passionate about building scalable web applications and solving real-world problems. I love learning new technologies every day and sharing knowledge with the community.  
-
----
-
-### 🚀 About Me
-- 💻 I enjoy **programming, problem solving, and learning computer science concepts**.
-- 🔭 I love **creating and designing beautiful websites** and experimenting with **Machine Learning models**.
-- 🌱 Continuously **learning and growing** in backend development, web technologies, and software architecture.
-- 👯 I’m looking to **collaborate on impactful projects** that can make a difference.
-- 🌍 I share knowledge through **open-source contributions** and **Medium articles**: [Medium](https://medium.com/@jayadubey6402)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaya6400"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://twitter.com/jaya_6400"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://medium.com/@jayadubey6402"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" /></a>
+</p>
 
 ---
 
-### 💼 My Skills
-**Languages & Frameworks:**  
-`PHP` | `Laravel` | `JavaScript` | `Java` | `C++` | `Python` | `HTML` | `CSS` | `ReactJS` | `NextJS` | `MySQL` | `MongoDB` | `PostgreSQL` | `Git`
-
-**Other Tools & Technologies:**  
-`REST APIs` | `Linux` | `Postman` | `Docker` | `CI/CD` | `Machine Learning`
-
----
-
-### 📊 GitHub Stats
-![GitHub stats](https://github-stats.vercel.app/api?username=jaya6400&show_icons=true&theme=radical)
-
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jaya6400&theme=radical)
+## 🚀 About Me
+- 💻 Passionate about **building scalable web applications**
+- 🧠 Strong interest in **Data Structures & System Design**
+- 🎨 Love creating **clean & user-friendly UI/UX**
+- 🤖 Exploring **Machine Learning & AI**
+- 🌱 Constantly learning **backend architecture & modern web tech**
+- 🤝 Open to **collaboration on impactful projects**
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaya6400)  
-- 🐦 [Twitter](https://twitter.com/jaya_6400)  
-- 📸 [Medium](https://medium.com/@jayadubey6402)
+## 💼 Tech Stack
+
+### 🧑‍💻 Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,java,cpp,python,react,nextjs,html,css" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman" />
+</p>
 
 ---
 
-### ⚡ Fun Fact
-I’m always **exploring new technologies** and **building small projects** to strengthen my skills while sharing my journey with the community.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats.vercel.app/api?username=jaya6400&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jaya6400&theme=radical" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaya6400&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p>
+  💼 <a href="https://www.linkedin.com/in/jaya6400">LinkedIn</a><br>
+  🐦 <a href="https://twitter.com/jaya_6400">Twitter</a><br>
+  ✍️ <a href="https://medium.com/@jayadubey6402">Medium</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+I like turning **ideas into real-world projects** and continuously improving my skills 🚀
