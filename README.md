@@ -29,7 +29,7 @@
 
 ### 🧑‍💻 Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,java,cpp,python,react,nextjs,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,java,cpp,python,react,nextjs,html,css,golang" />
 </p>
 
 ### 🗄️ Databases
@@ -39,7 +39,7 @@
 
 ### ⚙️ Tools & Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,postman,selenium" />
 </p>
 
 ---
