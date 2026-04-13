@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jaya6400"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/jaya_6400"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jaya6400">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20"/></a>
+  <a href="https://x.com/jaya_6400"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://medium.com/@jayadubey6402"><img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" /></a>
 </p>
 
